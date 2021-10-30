@@ -1,0 +1,9 @@
+input {
+  width: 100%;
+}
+.heading-post-success {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
